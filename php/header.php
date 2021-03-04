@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="C:\xampp\htdocs\KP\css\index.css" type="text/css" rel="stylesheet">
+    <link href="..\css\index.css" type="text/css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=
@@ -20,7 +20,7 @@
   
   <header>
     <div class="container">
-      <img src="C:\xampp\htdocs\KP\img\Adam logo.png" alt="moi" class="logo">
+      <img src="..\img\Adam logo.png" alt="moi" class="logo">
     <nav>
       <ul>
         <li><a href="#">about me</a></li>
