@@ -31,7 +31,7 @@
           if(isset($_SESSION["userid"])){
             //if this data exists then jalan code ni
             echo "<li><a href='./profile.php'>Profile page</a></li>";//bila echo "" kalau nak buat string within that pakai '' NOT ""
-            echo "<li><a href='../includes/logout.php'>Log out</a></li>";
+            echo "<li><a href='../includes/logout.inc.php'>Log out</a></li>";
           }else{
             echo "<li><a href='./loginPage.php'>login</a></li>";    
             echo "<li><a href='./signUpPage.php'>Sign Up</a></li>";
